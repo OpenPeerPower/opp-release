@@ -1,0 +1,11 @@
+.token
+lib
+pip-selfcheck.json
+pyvenv.cfg
+.cache
+data/
+bin
+*.py[cod]
+lib64
+share/
+*.egg-info/

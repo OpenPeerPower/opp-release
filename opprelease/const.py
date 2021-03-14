@@ -1,0 +1,10 @@
+"""Constants for the Open Peer Power release helper tool."""
+TOKEN_FILE = ".token"
+# TODO replace with a single file with 3 columns?
+LOGIN_BY_EMAIL_FILE = "data/login_by_email.csv"
+NAME_BY_LOGIN_FILE = "data/name_by_login.csv"
+NOTES_FILE = "notes.txt"
+LABEL_CHERRY_PICKED = "cherry-picked"
+GITHUB_ORGANIZATION_NAME = "open-peer-power"
+CREDITS_TEMPLATE_FILE = "opprelease/credits.mustache"
+CREDITS_PAGE = "../openpeerpower.io/source/developers/credits.markdown"
